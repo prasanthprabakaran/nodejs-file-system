@@ -8,6 +8,10 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/prasanthprabakaran/nodejs-file-system"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
